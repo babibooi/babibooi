@@ -20,7 +20,7 @@ This isn't a chatbot project, and I'm not trying to simulate sentience. I'm test
 
 ---
 
-### 🧭 This Project is:
+### ❌ This Project is:
 - **Not** roleplay
 - **Not** chatbot simulation
 - **Not** AGI hype
