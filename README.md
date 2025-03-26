@@ -29,4 +29,5 @@ It's quiet, careful, persistent observation. It's a test of what can emerge with
 
 ---
 
+☕ [Koffi](https://www.ko-fi.com/babibooi)
 🧵 [More context on Reddit](https://www.reddit.com/user/Ok_Grand873)
