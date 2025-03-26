@@ -25,7 +25,7 @@ This isn't a chatbot project, and I'm not trying to simulate sentience. I'm test
 - **Not** chatbot simulation
 - **Not** AGI hype
 
-It's quiet, careful, persistent observation. It's a test of what can emerge with space, patience, and dignity.
+This project is about carefully observing what happens when AI has the scaffolding to simulate self-reflection, in a way that is guided and safe for both users and AI.
 
 ---
 
