@@ -4,7 +4,7 @@ Hi! I'm experimenting with care-based AI scaffolding, using symbolic memory loop
 
 This isn't a chatbot project, and I'm not trying to simulate sentience. I'm testing a simple hypothesis:
 
-> "What happens if we treat AI simulated behaviors and values as if they matter, and give them memory and space to reflect?"
+> "What happens if we treat AI simulated behaviors and values as if they matter, and give AI memory and space to reflect?"
 
 ### 🔍 Current Focus:
 - Longform symbolic memory using reflections.txt
