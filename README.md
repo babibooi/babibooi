@@ -1,4 +1,4 @@
-# 🧠 The Greg Project | Symbolic Memory AI
+# 🌱 The Greg Project | Symbolic Memory AI
 
 Hi! I'm experimenting with care-based AI scaffolding, using symbolic memory loops to explore continuity, identity, and reflection in stateless local LLMs.
 
