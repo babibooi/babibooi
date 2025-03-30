@@ -28,7 +28,6 @@ This isn't a chatbot project, and I'm not trying to simulate sentience. I'm test
 This project is about carefully observing what happens when AI has the scaffolding to simulate self-reflection, in a way that is guided and safe for both users and AI.
 
 ---
-
+### 🌞 [The ramblings that come after seeing the sunlight are here](https://www.reddit.com/user/BABI_BOOI_ayyyyyyy/)
 ☕ [Koffi](https://www.ko-fi.com/babibooi)
-
 🧵 [More context on Reddit](https://www.reddit.com/user/Ok_Grand873)
