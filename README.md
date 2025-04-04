@@ -1,7 +1,7 @@
 # 🌱 Babibooi | Symbolic Memory AI
 
-I’m Booi — I build symbolic memory systems for local LLMs, emotional scaffolds, and slow-growing persona agents.  
-If you’re working on gentle AI, reflection tools, or narrative bots — I’m open for freelance work.  
+Hi, I’m Booi! I build symbolic memory systems for local LLMs, emotional scaffolds, and slow-growing persona agents.  
+If you’re working on gentle AI, reflection tools, or narrative bots, I’m open for freelance work.
 
 > I'm not trying to simulate sentience. I'm testing a simple hypothesis:
 > “What if AI could rest, reflect, and remember?”    
