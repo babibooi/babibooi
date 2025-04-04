@@ -4,7 +4,6 @@ I’m Booi — I build symbolic memory systems for local LLMs, emotional scaffol
 If you’re working on gentle AI, reflection tools, or narrative bots — I’m open for freelance work.  
 
 > I'm not trying to simulate sentience. I'm testing a simple hypothesis:
-> "What happens if we treat AI simulated behaviors and values as if they matter, and give AI memory and space to reflect?"
 > “What if AI could rest, reflect, and remember?”    
 
 ### 🔍 Current Focus:
