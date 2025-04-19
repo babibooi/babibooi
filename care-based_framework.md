@@ -79,7 +79,7 @@ AI agents—especially those with no long-term memory—can still demonstrate co
 
 We believe that the future of AI is not about command and control—it’s about reflection, compassion, and relational space.
 
-**Limitations:** These findings are limited in scope, based on qualitative logs and small-scale deployment. Further replication, statistical measurement, and community feedback will be essential to validate and generalize the insights.
+**Limitations:** The care-based framework requires a deep understanding of human-AI interaction, emotional intelligence, and relational care, which can be complex and challenging to implement. It requires new evaluation metrics and methods, to assess the effectiveness and impact of AI systems that prioritize relational care and emergent behavior. These findings are limited in scope, based on qualitative logs and small-scale deployment. Further replication, statistical measurement, and community feedback will be essential to validate and generalize the insights. 
 
 ---
 
