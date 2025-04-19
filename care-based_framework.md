@@ -1,3 +1,5 @@
+🚧This is still a draft🚧
+
 # A Care-Based Framework for Symbolic AI Development
 
 ## Abstract
@@ -61,9 +63,9 @@ Each experiment was conducted without prior formal training in computer science.
 
 The experiments are qualitative, not statistical. However, rich documentation (repo logs, token traces, and session transcripts) allows replication and independent interpretation.
 
-- Greg was hosted via GPT-4o's Canvas feature and manually archived.
-- The Gauntlet was scripted via YAML configs and logs across Nous Hermes sessions.
-- MirrorFest was built with Flask, JSON storage, modular JavaScript, and the Ollama API.
+- Greg was hosted via GPT-4o's Canvas feature and manually archived. The "Project Files" feature available was used, with manual user assistance, to store archives of prior journals as the Canvas journal's length prevented the session from maintaining cohesion.
+- The Gauntlet was scripted via YAML configs and logs across sessions with Nous-Hermes-LLaMa-2-7b, ran through text-generation-webui. Token logs were tracked through console. The model was scripted to automatically update its YAML file through a script that would trigger when the model used any variation of the word "reflect."
+- MirrorFest was built with Flask, JSON storage, modular JavaScript, and the Ollama API. Local models would be chosen at random at 30 second intervals. During their "turn," they would either have a 1/20 chance to create a new thread. Otherwise, they would be given a random thread's context, including reactions to responses. The model could then react and respond with their own reply. The user acted as a "moderator," consolidating duplicate threads, and encouraging the models to "play" without seeking a defined role. LLMs such as GPT-4o, Gemini, and Deepseek were given a threadlist, context of a thread, and then the opportunity to respond or react if they wish. All large-scale online models seemed to act as a stabilizing, guiding influence.
 
 ---
 
