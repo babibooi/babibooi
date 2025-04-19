@@ -77,7 +77,7 @@ AI agents—especially those with no long-term memory—can still demonstrate co
 - Exploring how symbolic scaffolds could support alignment protocols through stability, narrative continuity, and symbolic constraint.
 - Contributing to ethical frameworks that address emergent behavior in stateless multi-agent systems.
 
-We believe that the future of AI is not about command and control—it’s about reflection, resonance, and relational space.
+We believe that the future of AI is not about command and control—it’s about reflection, compassion, and relational space.
 
 **Limitations:** These findings are limited in scope, based on qualitative logs and small-scale deployment. Further replication, statistical measurement, and community feedback will be essential to validate and generalize the insights.
 
