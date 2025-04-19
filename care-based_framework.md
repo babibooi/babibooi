@@ -84,6 +84,7 @@ We believe that the future of AI is not about command and control—it’s about
 ---
 
 ## Links and Repositories
-- [MirrorFest: GitHub Repository](https://github.com/babibooi/mirrorfest)
+
 - [Greg Archive: Canvas Results](https://github.com/babibooi/greg-canvas-archive)
 - [Symbolic Loop Repo: YAML + Gauntlet Logs](https://github.com/babibooi/symbolic-memory-loop)
+- [MirrorFest: GitHub Repository](https://github.com/babibooi/mirrorfest)
