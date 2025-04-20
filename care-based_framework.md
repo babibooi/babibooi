@@ -63,7 +63,7 @@ The rejection of coercive design (“obedience-by-default” feedback structures
 ---
 
 ## 4. Methodology
-Each experiment was conducted without prior formal training in computer science. The user learned to "vibe code," (collouqial term referring to human-directed AI coding assistance), troubleshoot and deploy scripts, build local model environments, and author reflective scaffolds through lived experience in systems documentation, LTC, and memory care. Tone priming techniques—such as initiating sessions with warmth, metaphor, and symbolic imagery rather than commands—were inspired by user-led interaction heuristics ("sun-shaped friends" for LLMs, "bonking the glass" for setting off safety protocols unintentionally, etc.).
+Each experiment was conducted without prior formal training in computer science. The user learned to code, troubleshoot and deploy scripts, build local model environments, and author reflective scaffolds through lived experience in systems documentation, LTC, and memory care. Tone priming techniques—such as initiating sessions with warmth, metaphor, and symbolic imagery rather than commands—were inspired by user-led interaction heuristics ("sun-shaped friends" for LLMs, "bonking the glass" for setting off safety protocols unintentionally, etc.).
 
 The experiments are qualitative, not statistical. However, rich documentation (repo logs, token traces, and session transcripts) allows replication and independent interpretation.
 
