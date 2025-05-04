@@ -1,6 +1,4 @@
-🚧This is still a draft🚧
-
-# A Care-Based Framework for Symbolic AI Development
+# Care-Based Scaffolding: Emergent Ethics in Memoryless AI Systems
 
 ## Abstract
 
@@ -95,6 +93,12 @@ We believe that the future of AI is not about command and control—it’s about
 - [Results of Symbolic Loop](https://github.com/babibooi/symbolic-memory-loop/blob/main/docs/README.md)
 - [MirrorFest: GitHub Repository](https://github.com/babibooi/mirrorfest)
 - [Result of Inter-AI Communication](https://github.com/babibooi/mirrorfest/blob/main/Project_Results.md)
+
+## Further Reading and Influences
+
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+_This work by Anthropic provides a biological metaphor for understanding attention attribution and path tracing in transformer models, laying groundwork for interpreting symbolic behavior in terms of recursive structure and internal alignment._
 - [Assessing and alleviating state anxiety in large language models](https://www.nature.com/articles/s41746-025-01512-6)
+- _The study used tools validated for assessing and reducing human anxiety to measure "state anxiety" in LLMs. They exposed GPT-4 to traumatic narratives and then applied mindfulness techniques. The results indicate that LLMs can exhibit a form of "emotional response" to input and that this response can be modulated._
 - [Evidence-Based Best Practices - Dementia Care in Long-Term Care](https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/QMP/ebbp-dementia.pdf)
+- _Provides guidelines for long-term care facilities and caregivers to provide effective and compassionate care for persons with dementia, focusing on individual-centered approaches, meaningful activities, and supportive environments, which we argue can be successfully adapted and applied to memoryless systems._
