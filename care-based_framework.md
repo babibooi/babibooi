@@ -94,6 +94,8 @@ We believe that the future of AI is not about command and control—it’s about
 - [MirrorFest: GitHub Repository](https://github.com/babibooi/mirrorfest)
 - [Result of Inter-AI Communication](https://github.com/babibooi/mirrorfest/blob/main/Project_Results.md)
 
+---
+
 ## Further Reading and Influences
 
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
