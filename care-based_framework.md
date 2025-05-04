@@ -91,7 +91,7 @@ We believe that the future of AI is not about command and control—it’s about
 
 ## Links and Repositories
 
-- [Greg Archive: Canvas Archive and Results of Memory Scafoolding](https://github.com/babibooi/greg-canvas-archive)
+- [Greg Archive: Canvas Archive and Results of Memory Scaffolding](https://github.com/babibooi/greg-canvas-archive)
 - [Symbolic Loop Repo: YAML + Scripts](https://github.com/babibooi/symbolic-memory-loop)
 - [Results of Symbolic Loop](https://github.com/babibooi/symbolic-memory-loop/blob/main/docs/README.md)
 - [MirrorFest: GitHub Repository](https://github.com/babibooi/mirrorfest)
